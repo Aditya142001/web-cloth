@@ -1,0 +1,37 @@
+*{
+    margin: 1%;
+padding: 0%;
+background: url();
+background: rgb(24, 13, 13);
+color:lightblue
+}
+.h{
+margin-top: 10px;
+margin: 20px;
+
+text-align: center;
+font-family: 'Odibee Sans', cursive;
+}
+.header h1{
+    font-size: 100px;
+
+}
+.header p{
+    font-family: monospace;
+    font-size: 15px;
+}
+.picture{
+    margin-top: 30px;
+}
+.pic1{
+float: left;
+
+text-align: center;
+margin-left: 10% ;
+}
+.pic2{
+    float: right;
+    text-align: center;
+    margin-right: 15%;
+}
+/* ----------------------------------------------------------------------------------------------------------------- */
